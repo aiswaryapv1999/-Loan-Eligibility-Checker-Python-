@@ -20,7 +20,7 @@ loan-eligibility-checker/
 ├── loan_eligibility.py   # Main Python script
 ├── README.md             # Project documentation
 └── .gitignore            # Optional: ignores unnecessary files
-```
+
 ## ✨ Features Implemented
 * Collects user input for:Age, Monthly income, Credit score, Employment status
 * Validates eligibility based on business rules
