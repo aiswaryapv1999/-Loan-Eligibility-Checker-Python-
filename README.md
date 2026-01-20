@@ -37,11 +37,11 @@ The loan decision is made using the following conditions:
 4. Applicant must be **employed**
 
 ## 📊 Decision Logic
-* ✅ All conditions satisfied → **Loan Approved**
-* ❌ Age < 21 → *Loan Rejected: Age criteria not met*
-* ❌ Income < ₹20,000 → *Loan Rejected: Insufficient income*
-* ❌ Credit score < 650 → *Loan Rejected: Low credit score*
-* ❌ Unemployed → *Loan Rejected: Employment required*
+*  All conditions satisfied → **Loan Approved**
+*  Age < 21 → *Loan Rejected: Age criteria not met*
+*  Income < ₹20,000 → *Loan Rejected: Insufficient income*
+*  Credit score < 650 → *Loan Rejected: Low credit score*
+*  Unemployed → *Loan Rejected: Employment required*
 
 ## 📈 Findings & Learnings
 * Conditional statements are powerful tools for implementing real-world business logic
