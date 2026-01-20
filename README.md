@@ -1,4 +1,4 @@
-# -Loan-Eligibility-Checker-Python-
+# Loan-Eligibility-Checker-Python
 The Loan Eligibility Checker is a Python-based mini project that automates bank loan approval decisions. It evaluates age, income, credit score, and employment status using conditional logic to approve or reject loans and classify approved loans as Premium or Standard.
 # 🏦 Loan Eligibility Checker (Python)
 
@@ -10,7 +10,7 @@ Banks often require a structured process to assess loan eligibility. Manually ev
 
 ## 🛠 Tools & Technologies
 * **Programming Language:** Python 3
-* **IDE / Editor:** VS Code / PyCharm / Jupyter Notebook
+* **IDE / Editor:** VS Code / Jupyter notebook
 * **Version Control:** Git
 * **Platform:** GitHub
 
